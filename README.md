@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/e23yfiydwoppqjja/branch/master?svg=true)](https://ci.appveyor.com/project/leonnika/aqa-hw2-postman/branch/master)
