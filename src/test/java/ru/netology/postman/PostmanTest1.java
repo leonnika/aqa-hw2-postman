@@ -11,7 +11,7 @@ import static org.hamcrest.CoreMatchers.equalTo;
 
 public class PostmanTest1 {
     @Test
-    void shouldReturnDemoAccounts() {
+    void shouldCheckPostRequest() {
         Map<String, String> bodyData = new HashMap<>();
         bodyData.put("id", "100");
         bodyData.put("name", "долг");
