@@ -16,7 +16,7 @@ public class PostmanTest1 {
         bodyData.put("id", "100");
         bodyData.put("name", "долг");
         bodyData.put("number", "*6666");
-        bodyData.put("balance", "1");
+        bodyData.put("balance", "10000000000");
         bodyData.put("currency", "RUB");
 
         given()
